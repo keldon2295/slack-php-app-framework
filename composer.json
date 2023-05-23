@@ -1,5 +1,5 @@
 {
-    "name": "keldon2295/slack-app-framework",
+    "name": "keldon2295/slack-php-app-framework",
     "type": "library",
     "license": "MIT",
     "description": "Provides a foundation upon which to build a Slack application in PHP",
